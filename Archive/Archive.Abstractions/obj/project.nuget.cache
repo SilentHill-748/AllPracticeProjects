@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOfEyaFY5Cs0ag4InsSdEP9ZNd3VqPuwV+oZJ1pGVt6VNDri4rHfx9aMWo/ce1Uu4bA8dasc8iY4qSadwF0+rw==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Abstractions\\Archive.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.20348.21\\microsoft.windows.sdk.net.ref.10.0.20348.21.nupkg.sha512"
+  ],
+  "logs": []
+}

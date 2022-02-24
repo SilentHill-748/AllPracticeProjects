@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\bin\Debug\PracticeTimer.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\bin\Debug\PracticeTimer.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\bin\Debug\PracticeTimer.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeTimer\PracticeTimer\obj\Debug\PracticeTimer.pdb

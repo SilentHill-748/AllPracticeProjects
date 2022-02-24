@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\obj\Debug\ConsoleTable.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\obj\Debug\ConsoleTable.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\bin\Debug\ConsoleTable.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\bin\Debug\ConsoleTable.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\bin\Debug\ConsoleTable.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\obj\Debug\ConsoleTable.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleTable\ConsoleTable\obj\Debug\ConsoleTable.pdb

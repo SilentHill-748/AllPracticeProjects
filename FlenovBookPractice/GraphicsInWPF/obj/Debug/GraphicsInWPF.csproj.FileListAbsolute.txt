@@ -1,0 +1,15 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\bin\Debug\GraphicsInWPF.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\bin\Debug\GraphicsInWPF.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\bin\Debug\GraphicsInWPF.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\MainWindow.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.g.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\GraphicsInWPF\obj\Debug\GraphicsInWPF.pdb

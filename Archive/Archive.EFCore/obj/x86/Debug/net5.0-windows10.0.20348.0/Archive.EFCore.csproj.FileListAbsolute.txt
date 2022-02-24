@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows10.0.20348.0\ref\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\ref\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\bin\Debug\Server.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\bin\Debug\Server.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\bin\Debug\Server.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\obj\Debug\Server.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Server\obj\Debug\Server.pdb

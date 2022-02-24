@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\bin\Release\ExamApp.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\bin\Release\ExamApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\bin\Release\ExamApp.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\ExamApp\obj\Release\ExamApp.pdb

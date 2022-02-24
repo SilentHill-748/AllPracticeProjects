@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\bin\Debug\Lab_3.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\bin\Debug\Lab_3.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\bin\Debug\Lab_3.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\obj\Debug\Lab_3.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_3\obj\Debug\Lab_3.pdb

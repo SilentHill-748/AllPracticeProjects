@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "YAV0TbB87jwD4jAJqW47IpYmt53U1AYLNgiXL1XPt1stzU2pwJEL4PaJdW/6nDeU2rjQRnecfUg3Ge2i23fAJQ==",
+  "success": false,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Tests\\Archive.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Archive несовместим с net6.0 (.NETCoreApp,Version=v6.0). Проект Archive поддерживает: net6.0-windows10.0.22000 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Archive",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Archive.EFCore несовместим с net6.0 (.NETCoreApp,Version=v6.0). Проект Archive.EFCore поддерживает: net6.0-windows10.0.22000 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Archive.EFCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Archive.Services несовместим с net6.0 (.NETCoreApp,Version=v6.0). Проект Archive.Services поддерживает: net6.0-windows10.0.22000 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Archive.Services",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Archive.Documents несовместим с net6.0 (.NETCoreApp,Version=v6.0). Проект Archive.Documents поддерживает: net6.0-windows10.0.22000 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Archive.Documents",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

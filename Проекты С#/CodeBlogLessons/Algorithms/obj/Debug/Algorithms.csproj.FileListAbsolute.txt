@@ -1,0 +1,9 @@
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\bin\Debug\SilentHill.dll
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\Algorithms\obj\Debug\Algorithms.csproj.CopyComplete

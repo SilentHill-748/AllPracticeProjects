@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\bin\Debug\net6.0-windows\Archive.BLL.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\bin\Debug\net6.0-windows\Archive.BLL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\bin\Debug\net6.0-windows\ref\Archive.BLL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\bin\Debug\net6.0-windows\Archive.BLL.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\ref\Archive.BLL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.BLL\obj\Debug\net6.0-windows\Archive.BLL.pdb

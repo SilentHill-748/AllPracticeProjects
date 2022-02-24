@@ -1,0 +1,29 @@
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.exe.config
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.exe
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.pdb
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\MainWindow.g.cs
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\App.g.cs
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp_MarkupCompile.cache
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp_MarkupCompile.lref
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\MainWindow.baml
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.g.resources
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.Properties.Resources.resources
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.csproj.GenerateResource.cache
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.exe
+C:\Users\Silent Hill\source\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\bin\Debug\StudyWpfApp.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\MainWindow.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.g.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\StudyWpfApp\StudyWpfApp\obj\Debug\StudyWpfApp.pdb

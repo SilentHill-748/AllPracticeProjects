@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\ref\Client.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\bin\Debug\net5.0\Client.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\ref\Client.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache

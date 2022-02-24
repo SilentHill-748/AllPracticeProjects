@@ -1,0 +1,11 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\bin\Debug\DataBase for App.accdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\bin\Debug\SocialPoll.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\bin\Debug\SocialPoll.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\bin\Debug\SocialPoll.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\SocialPoll\SocialPoll\obj\Debug\SocialPoll.pdb

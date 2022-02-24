@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\NUnitTestingTable.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\NUnitTestingTable.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\NUnitTestingTable.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\DatabaseLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\Exceptions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\DatabaseLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\bin\Debug\Exceptions.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\obj\Debug\NUnitTestingTable.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\obj\Debug\NUnitTestingTable.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\obj\Debug\NUnitTestingTable.csproj.CopyComplete
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\obj\Debug\NUnitTestingTable.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTestingTable\NUnitTestingTable\obj\Debug\NUnitTestingTable.pdb

@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Release\Работа с графами.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Release\Работа с графами.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Release\Работа с графами.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\UserInterface.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\UserInterface.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\UserInterface.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\UserInterface.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\UserInterface.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\Работа с графами.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Release\Работа с графами.pdb

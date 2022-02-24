@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "a5f727c6-57c2-423f-a325-cbfbcb760b46": {
+      "ProjectGuid": "a5f727c6-57c2-423f-a325-cbfbcb760b46",
+      "DisplayName": "Archive.Documents",
+      "ColorIndex": 0
+    },
+    "367caf14-7aa4-4bff-aec5-6177c5455994": {
+      "ProjectGuid": "367caf14-7aa4-4bff-aec5-6177c5455994",
+      "DisplayName": "Archive",
+      "ColorIndex": 1
+    },
+    "7615590b-e5f0-4caa-8aac-1aa7123c5d22": {
+      "ProjectGuid": "7615590b-e5f0-4caa-8aac-1aa7123c5d22",
+      "DisplayName": "Archive.Services",
+      "ColorIndex": 2
+    },
+    "c43c0c61-fe11-4c50-9fcd-446f5cd080a7": {
+      "ProjectGuid": "c43c0c61-fe11-4c50-9fcd-446f5cd080a7",
+      "DisplayName": "Archive.EFCore",
+      "ColorIndex": 3
+    },
+    "4c834141-501a-4452-b4e4-59e62f9957b0": {
+      "ProjectGuid": "4c834141-501a-4452-b4e4-59e62f9957b0",
+      "DisplayName": "Archive.Tests",
+      "ColorIndex": 4
+    },
+    "868b0647-7d2b-43b3-9572-c02fee021206": {
+      "ProjectGuid": "868b0647-7d2b-43b3-9572-c02fee021206",
+      "DisplayName": "Archive.Abstractions",
+      "ColorIndex": 5
+    },
+    "baac2d59-764f-4ebf-aa9d-b043fdc6552a": {
+      "ProjectGuid": "baac2d59-764f-4ebf-aa9d-b043fdc6552a",
+      "DisplayName": "Archive.Exceptions",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

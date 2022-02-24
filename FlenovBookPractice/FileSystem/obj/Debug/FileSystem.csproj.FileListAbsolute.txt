@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\bin\Debug\FileSystem.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\bin\Debug\FileSystem.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\bin\Debug\FileSystem.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FileSystem\obj\Debug\FileSystem.pdb

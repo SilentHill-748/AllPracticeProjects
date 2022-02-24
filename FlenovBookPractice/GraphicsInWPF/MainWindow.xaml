@@ -1,0 +1,44 @@
+﻿<Window x:Class="GraphicsInWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphicsInWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="429.375" Width="488.75">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Path Stroke="Red" StrokeThickness="5" Grid.Row="0" Grid.Column="0">
+            <Path.Data>
+                <PathGeometry>
+                    <PathGeometry.Figures>
+                        <PathFigureCollection>
+                            <PathFigure StartPoint="70, 40">
+                                <PathFigure.Segments>
+                                    <PathSegmentCollection>
+                                        <QuadraticBezierSegment Point1="75,75" Point2="10,10"/>
+                                    </PathSegmentCollection>
+                                </PathFigure.Segments>
+                            </PathFigure>
+                        </PathFigureCollection>
+                    </PathGeometry.Figures>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+
+        <Polygon Grid.Column="0" Grid.Row="1" Points="10,10 10,50 50,50 50,10"
+                 StrokeThickness="1" Stroke="Purple">
+            <Polygon.Fill>
+                <SolidColorBrush Color="Red"/>
+            </Polygon.Fill>
+        </Polygon>
+    </Grid>
+</Window>

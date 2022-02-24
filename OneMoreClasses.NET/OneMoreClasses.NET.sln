@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneMoreClasses.NET", "OneMoreClasses.NET\OneMoreClasses.NET.csproj", "{3B07E924-9130-4FFB-8128-4AED2E9FC5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B07E924-9130-4FFB-8128-4AED2E9FC5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B07E924-9130-4FFB-8128-4AED2E9FC5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B07E924-9130-4FFB-8128-4AED2E9FC5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B07E924-9130-4FFB-8128-4AED2E9FC5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F4B8AC-9ED5-4897-9D55-66AB7C5C91B8}
+	EndGlobalSection
+EndGlobal

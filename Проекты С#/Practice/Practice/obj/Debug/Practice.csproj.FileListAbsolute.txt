@@ -1,0 +1,10 @@
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Nikic\source\Проекты С#\Practice\Practice\obj\Debug\Practice.pdb

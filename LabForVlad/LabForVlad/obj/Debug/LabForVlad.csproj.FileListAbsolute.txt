@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\bin\Debug\LabForVlad.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\bin\Debug\LabForVlad.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\bin\Debug\LabForVlad.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\obj\Debug\LabForVlad.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\obj\Debug\LabForVlad.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\obj\Debug\LabForVlad.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForVlad\LabForVlad\obj\Debug\LabForVlad.pdb

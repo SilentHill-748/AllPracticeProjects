@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\bin\Debug\Client1.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\bin\Debug\Client1.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\bin\Debug\Client1.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\obj\Debug\Client1.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\obj\Debug\Client1.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ServerApp\Client1\obj\Debug\Client.csprojAssemblyReference.cache

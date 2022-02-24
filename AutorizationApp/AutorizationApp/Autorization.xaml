@@ -1,0 +1,43 @@
+﻿<Window x:Class="AutorizationApp.Autorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutorizationApp"
+        mc:Ignorable="d"
+        Height="250" Width="400" WindowStartupLocation="CenterScreen" 
+        Title="Autorization" ResizeMode="CanMinimize"
+        WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Label Content="Welcom to my App! :)" x:Name="WelcomL" Margin="0,10,0,0"
+               VerticalAlignment="Top" HorizontalAlignment="Center"
+               FontSize="30"/>
+
+        <TextBox x:Name="LoginTB" Width="200" Height="28" MaxLength="20"
+                 VerticalAlignment="Center" HorizontalAlignment="Left"
+                 FontSize="20" Margin="60,0,0,35"/>
+
+        <PasswordBox x:Name="PasswordPB" Width="200" Height="28" MaxLength="20"
+                     VerticalAlignment="Center" HorizontalAlignment="Left"
+                     FontSize="20" Margin="60,35,0,0"/>
+
+        <Label Content="Login" Margin="265,0,0,35"
+               VerticalAlignment="Center" HorizontalAlignment="Left"/>
+
+        <Label Content="Password" Margin="265,35,0,0"
+               VerticalAlignment="Center" HorizontalAlignment="Left"/>
+
+        <Label Content="Log In" x:Name="LoginL" Margin="250,0,0,30"
+               VerticalAlignment="Bottom" HorizontalAlignment="Left"
+               FontSize="20" MouseDown="LoginL_MouseDown"/>
+
+        <Label Content="Help?" x:Name="HelpL" Margin="170,0,0,30"
+               VerticalAlignment="Bottom" HorizontalAlignment="Left"
+               FontSize="20" MouseDown="HelpL_MouseDown"/>
+
+        <Label Content="Registration" x:Name="RegistrationL" Margin="30,0,0,30"
+               VerticalAlignment="Bottom" HorizontalAlignment="Left"
+               FontSize="20" MouseDown="RegistrationL_MouseDown"/>
+    </Grid>
+        
+</Window>

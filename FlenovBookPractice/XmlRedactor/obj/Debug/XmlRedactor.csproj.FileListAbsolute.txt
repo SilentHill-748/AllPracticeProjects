@@ -1,0 +1,9 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\bin\Debug\XmlRedactor.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\bin\Debug\XmlRedactor.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\bin\Debug\XmlRedactor.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\XmlRedactor\obj\Debug\XmlRedactor.pdb

@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\bin\Debug\Pointers.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\bin\Debug\Pointers.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\bin\Debug\Pointers.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\obj\Debug\Pointers.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\obj\Debug\Pointers.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\obj\Debug\Pointers.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\Pointers\obj\Debug\Pointers.pdb

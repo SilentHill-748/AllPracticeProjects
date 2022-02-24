@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ObsTaskKiller.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ObsTaskKiller.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ObsTaskKiller.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ObsTaskKiller.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ref\ObsTaskKiller.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\bin\Debug\net6.0\ObsTaskKiller.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.GlobalUsings.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ref\ObsTaskKiller.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ObsTaskKiller\ObsTaskKiller\obj\Debug\net6.0\ObsTaskKiller.genruntimeconfig.cache

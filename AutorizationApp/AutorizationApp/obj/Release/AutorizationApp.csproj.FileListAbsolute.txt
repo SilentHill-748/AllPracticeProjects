@@ -1,0 +1,5 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AutorizationApp\AutorizationApp\obj\Release\Autorization.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AutorizationApp\AutorizationApp\obj\Release\gdfbegfrbr\Test.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AutorizationApp\AutorizationApp\obj\Release\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AutorizationApp\AutorizationApp\obj\Release\AutorizationApp_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AutorizationApp\AutorizationApp\obj\Release\AutorizationApp_MarkupCompile.lref

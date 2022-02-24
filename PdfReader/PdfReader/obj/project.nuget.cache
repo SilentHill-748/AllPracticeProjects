@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxfwUR/S+3JXhi3Fw2EDnYSGJu7Na5vXVCDzKBqMx60HQSj2PucpPXgDgueBSkaCPWHrDX3HjR+G+BOYFaiHwg==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\PdfReader\\PdfReader\\PdfReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\bitmiracle.docotic.pdf\\8.1.12215\\bitmiracle.docotic.pdf.8.1.12215.nupkg.sha512",
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\SilentHill\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\SilentHill\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\SilentHill\\.nuget\\packages\\tesseract\\4.1.1\\tesseract.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

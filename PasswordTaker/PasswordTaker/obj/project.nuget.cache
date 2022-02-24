@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJN/UAxn9nEfmRGvUs7/dLs2X6TrjsZHiI9L2j4uVjfmxJt2k2aCZWzAdc5NG2LbxMYf5IFRneR0YMkGNY63+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\PasswordTaker\\PasswordTaker\\PasswordTaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512"
+  ],
+  "logs": []
+}

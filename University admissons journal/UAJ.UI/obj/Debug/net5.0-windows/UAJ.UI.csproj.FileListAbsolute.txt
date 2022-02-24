@@ -1,0 +1,33 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\ref\Журнал абитуриентов.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Журнал абитуриентов.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\Журнал абитуриентов_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\Журнал абитуриентов_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\Журнал абитуриентов.g.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\Журнал абитуриентов.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\ref\Журнал абитуриентов.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\Журнал абитуриентов.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.genruntimeconfig.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\Zstandard.Net.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\DataReader.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\bin\Debug\net5.0-windows\DataReader.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\UAJ.UI\obj\Debug\net5.0-windows\UAJ.UI.csproj.CopyComplete

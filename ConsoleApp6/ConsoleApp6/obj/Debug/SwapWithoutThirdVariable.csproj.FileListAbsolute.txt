@@ -1,0 +1,6 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\obj\Debug\SwapWithoutThirdVariable.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

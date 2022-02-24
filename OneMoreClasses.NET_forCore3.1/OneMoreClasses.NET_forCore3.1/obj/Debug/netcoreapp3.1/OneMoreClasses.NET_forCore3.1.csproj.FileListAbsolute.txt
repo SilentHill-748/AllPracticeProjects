@@ -1,0 +1,13 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\bin\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET_forCore3.1\OneMoreClasses.NET_forCore3.1\obj\Debug\netcoreapp3.1\OneMoreClasses.NET_forCore3.1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\UserInterface.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Debug\Работа с графами.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Debug\Работа с графами.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\bin\Debug\Работа с графами.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\Работа с графами.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkWithGraphs\UserInterface\obj\Debug\Работа с графами.pdb

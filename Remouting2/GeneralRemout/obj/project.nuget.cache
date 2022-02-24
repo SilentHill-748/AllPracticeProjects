@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUXULZi0wAfTWUbREKx8lH00OFy0untK1c8X4KAyqLGwttuV8fHv9AXhB8iy1Un3YbSeDeqMxAfoE+HOjOp38Q==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Remouting2\\GeneralRemout\\GeneralRemout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

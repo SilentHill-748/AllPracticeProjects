@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\tessnet2_32.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CopyComplete
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb

@@ -1,0 +1,9 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\HoursCounter.csproj.ResolveComReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\HoursCounter.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\bin\Debug\Get Statistics.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\bin\Debug\Get Statistics.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\bin\Debug\Get Statistics.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\Get Statistics.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\Get Statistics.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\HoursCounter.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\HoursCounter\HoursCounter\obj\Debug\HoursCounter.csproj.SuggestedBindingRedirects.cache

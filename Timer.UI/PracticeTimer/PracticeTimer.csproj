@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>unnamed-removebg-preview.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="abortion-.png" />
+    <None Remove="art-iy-tujiki-gory-priroda.jpg" />
+    <None Remove="minimize-icon-21.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="abortion-.png" />
+    <Resource Include="art-iy-tujiki-gory-priroda.jpg" />
+    <Resource Include="minimize-icon-21.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Documents\\Archive.Documents.csproj": {}
+  },
+  "projects": {
+    "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Documents\\Archive.Documents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Documents\\Archive.Documents.csproj",
+        "projectName": "Archive.Documents",
+        "projectPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Documents\\Archive.Documents.csproj",
+        "packagesPath": "C:\\Users\\SilentHill\\.nuget\\packages\\",
+        "outputPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Documents\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SilentHill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22000.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22000": {
+            "targetAlias": "net6.0-windows10.0.22000.0",
+            "projectReferences": {
+              "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\Archive.EFCore.csproj": {
+                "projectPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\Archive.EFCore.csproj"
+              },
+              "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj": {
+                "projectPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22000": {
+          "targetAlias": "net6.0-windows10.0.22000.0",
+          "dependencies": {
+            "BitMiracle.Docotic.Pdf": {
+              "target": "Package",
+              "version": "[8.3.12622, )"
+            },
+            "FreeSpire.Doc": {
+              "target": "Package",
+              "version": "[9.9.7, )"
+            },
+            "Tesseract": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22000.21, 10.0.22000.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\Archive.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\Archive.EFCore.csproj",
+        "projectName": "Archive.EFCore",
+        "projectPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\Archive.EFCore.csproj",
+        "packagesPath": "C:\\Users\\SilentHill\\.nuget\\packages\\",
+        "outputPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SilentHill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22000.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22000": {
+            "targetAlias": "net6.0-windows10.0.22000.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22000": {
+          "targetAlias": "net6.0-windows10.0.22000.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22000.21, 10.0.22000.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj",
+        "projectName": "Archive.Exceptions",
+        "projectPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\SilentHill\\.nuget\\packages\\",
+        "outputPath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SilentHill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.22000.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.22000": {
+            "targetAlias": "net6.0-windows10.0.22000.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22000": {
+          "targetAlias": "net6.0-windows10.0.22000.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22000.21, 10.0.22000.21]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

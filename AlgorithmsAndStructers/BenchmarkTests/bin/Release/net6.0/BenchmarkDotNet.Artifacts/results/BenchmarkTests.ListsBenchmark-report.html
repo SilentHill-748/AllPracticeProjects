@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>BenchmarkTests.ListsBenchmark-20210823-123915</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19043.1165 (21H1/May2021Update)
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx, 1 CPU, 8 logical and 4 physical cores
+.NET SDK=6.0.100-preview.7.21379.14
+  [Host]     : .NET 6.0.0 (6.0.21.37719), X64 RyuJIT
+  DefaultJob : .NET 6.0.0 (6.0.21.37719), X64 RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>        Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>DefaultListBenchmark</td><td>36.59 &mu;s</td><td>0.848 &mu;s</td><td>2.475 &mu;s</td><td>35.91 &mu;s</td><td>1</td><td>62.4390</td><td>-</td><td>128 KB</td>
+</tr><tr><td>MyListBenchmark</td><td>135.84 &mu;s</td><td>2.685 &mu;s</td><td>2.511 &mu;s</td><td>135.90 &mu;s</td><td>2</td><td>79.8340</td><td>30.0293</td><td>313 KB</td>
+</tr></tbody></table>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\bin\Debug\RegexTest.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\bin\Debug\RegexTest.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\bin\Debug\RegexTest.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\obj\Debug\RegexTest.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\obj\Debug\RegexTest.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\obj\Debug\RegexTest.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\RegexTest\RegexTest\obj\Debug\RegexTest.pdb

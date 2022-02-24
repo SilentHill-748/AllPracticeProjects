@@ -1,0 +1,15 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\bin\Debug\MemoryTestWPF.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\bin\Debug\MemoryTestWPF.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\bin\Debug\MemoryTestWPF.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MainWindow.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.g.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\MemoryTestWPF\MemoryTestWPF\obj\Debug\MemoryTestWPF.pdb

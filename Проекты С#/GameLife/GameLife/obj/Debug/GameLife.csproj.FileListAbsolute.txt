@@ -1,0 +1,10 @@
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\bin\Debug\GameLife.exe.config
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\bin\Debug\GameLife.exe
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\bin\Debug\GameLife.pdb
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.Form1.resources
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.Properties.Resources.resources
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.csproj.GenerateResource.cache
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.exe
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.pdb
+C:\Users\Silent Hill\source\Проекты С#\GameLife\GameLife\obj\Debug\GameLife.csprojAssemblyReference.cache

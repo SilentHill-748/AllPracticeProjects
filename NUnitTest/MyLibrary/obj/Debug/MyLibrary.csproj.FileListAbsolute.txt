@@ -1,0 +1,5 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTest\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTest\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTest\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTest\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\NUnitTest\MyLibrary\obj\Debug\MyLibrary.pdb

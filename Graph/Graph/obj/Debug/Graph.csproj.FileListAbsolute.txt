@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\bin\Debug\Graph.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\bin\Debug\Graph.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\bin\Debug\Graph.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\obj\Debug\Graph.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Graph\Graph\obj\Debug\Graph.pdb

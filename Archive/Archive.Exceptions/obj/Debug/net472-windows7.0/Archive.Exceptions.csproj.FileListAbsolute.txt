@@ -1,0 +1,5 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Debug\net472-windows7.0\Archive.Exceptions.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Debug\net472-windows7.0\Archive.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Debug\net472-windows7.0\Archive.Exceptions.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Debug\net472-windows7.0\Archive.Exceptions.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Debug\net472-windows7.0\Archive.Exceptions.csproj.CoreCompileInputs.cache

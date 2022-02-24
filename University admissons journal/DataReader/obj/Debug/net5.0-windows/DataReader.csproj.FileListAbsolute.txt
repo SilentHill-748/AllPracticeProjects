@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\bin\Debug\net5.0-windows\DataReader.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\bin\Debug\net5.0-windows\DataReader.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\bin\Debug\net5.0-windows\ref\DataReader.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\bin\Debug\net5.0-windows\DataReader.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\ref\DataReader.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\University admissons journal\DataReader\obj\Debug\net5.0-windows\DataReader.pdb

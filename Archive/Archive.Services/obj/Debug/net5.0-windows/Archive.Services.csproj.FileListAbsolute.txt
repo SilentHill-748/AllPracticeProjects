@@ -1,0 +1,17 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.Services.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\ref\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.Services.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.Abstractions.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.csproj.CopyComplete
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\ref\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows\Archive.Services.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows\Archive.EFCore.pdb

@@ -1,0 +1,11 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\bin\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\bin\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\bin\Debug\net5.0-windows10.0.20348.0\ref\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\bin\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\ref\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Abstractions\obj\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.pdb

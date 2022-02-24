@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\bin\Debug\Lab_4.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\bin\Debug\Lab_4.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\bin\Debug\Lab_4.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\obj\Debug\Lab_4.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab_4\obj\Debug\Lab_4.pdb

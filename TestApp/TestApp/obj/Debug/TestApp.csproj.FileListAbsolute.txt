@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\bin\Debug\TestApp.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\bin\Debug\TestApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\bin\Debug\TestApp.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\obj\Debug\TestApp.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestApp\TestApp\obj\Debug\TestApp.pdb

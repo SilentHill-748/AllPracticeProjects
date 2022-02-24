@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExpectedDocuments>
+	<Document>
+		<Number>1</Number>
+		<DocumentTitle>001.Белка2.rtf</DocumentTitle>
+		<KeyWords>белка,белки,грызуны</KeyWords>
+		<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\001.Белка2.rtf</Path>
+		<ReferenceDocuments>
+			<ReferenceDocument>
+				<Number>8</Number>
+				<DocumentTitle>008.кк рф.rtf</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\008.кк рф.rtf</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>9</Number>
+				<DocumentTitle>009.постановление П-156.docx</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\009.постановление П-156.docx</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>5</Number>
+				<DocumentTitle>005.Контакты росприроднадзор.odt</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\005.Контакты росприроднадзор.odt</Path>
+			</ReferenceDocument>
+	</ReferenceDocuments>
+	</Document>
+	<Document>
+		<Number>2</Number>
+		<DocumentTitle>002.Калан.odt</DocumentTitle>
+		<KeyWords>калан,бобр</KeyWords>
+		<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\002.Калан.odt</Path>
+		<ReferenceDocuments>
+			<ReferenceDocument>
+				<Number>5</Number>
+				<DocumentTitle>005.Контакты росприроднадзор.odt</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\005.Контакты росприроднадзор.odt</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>8</Number>
+				<DocumentTitle>008.кк рф.rtf</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\008.кк рф.rtf</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>3</Number>
+				<DocumentTitle>003.Приказ 1547.pdf</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\003.Приказ 1547.pdf</Path>
+			</ReferenceDocument>
+		</ReferenceDocuments>
+	</Document>
+	<Document>
+		<Number>12</Number>
+		<DocumentTitle>012.Медведь.rtf</DocumentTitle>
+		<KeyWords>медведи,млекопитающие,хищники</KeyWords>
+		<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\012.Медведь.rtf</Path>
+		<ReferenceDocuments>
+			<ReferenceDocument>
+				<Number>4</Number>
+				<DocumentTitle>004.постановление П-400.odt</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\004.постановление П-400.odt</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>7</Number>
+				<DocumentTitle>007.админ регламент 297.rtf</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\007.админ регламент 297.rtf</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>6</Number>
+				<DocumentTitle>006.Постановление П-337.odt</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\006.Постановление П-337.odt</Path>
+			</ReferenceDocument>
+	</ReferenceDocuments>
+	</Document>
+	<Document>
+		<Number>13</Number>
+		<DocumentTitle>013.Лосось.rtf</DocumentTitle>
+		<KeyWords>лосось,лососёвые</KeyWords>
+		<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\013.Лосось.rtf</Path>
+		<ReferenceDocuments>
+			<ReferenceDocument>
+				<Number>4</Number>
+				<DocumentTitle>004.постановление П-400.odt</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\004.постановление П-400.odt</Path>
+			</ReferenceDocument>
+			<ReferenceDocument>
+				<Number>10</Number>
+				<DocumentTitle>010.Админ регламент 191.docx</DocumentTitle>
+				<Path>C:\Users\SilentHill\Desktop\Тестовые файлы\010.Админ регламент 191.docx</Path>
+			</ReferenceDocument>
+		</ReferenceDocuments>
+	</Document>
+</ExpectedDocuments>

@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\Reflaction.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\Reflaction.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\Reflaction.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\Reflaction.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\ref\Reflaction.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\bin\Debug\net6.0\Reflaction.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.ImplicitNamespaceImports.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\ref\Reflaction.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\Reflaction\obj\Debug\net6.0\Reflaction.genruntimeconfig.cache

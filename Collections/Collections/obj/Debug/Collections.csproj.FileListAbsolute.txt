@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\bin\Debug\Collections.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\bin\Debug\Collections.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\bin\Debug\Collections.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\obj\Debug\Collections.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Collections\Collections\obj\Debug\Collections.pdb

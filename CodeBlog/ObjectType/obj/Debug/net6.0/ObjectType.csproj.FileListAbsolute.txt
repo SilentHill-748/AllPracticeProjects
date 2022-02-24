@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ObjectType.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ObjectType.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ObjectType.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ObjectType.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ref\ObjectType.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\bin\Debug\net6.0\ObjectType.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.ImplicitNamespaceImports.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ref\ObjectType.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\ObjectType\obj\Debug\net6.0\ObjectType.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\bin\Debug\Time.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\bin\Debug\Time.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\bin\Debug\Time.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\obj\Debug\Time.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\obj\Debug\Time.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\obj\Debug\Time.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Time\Time\obj\Debug\Time.pdb

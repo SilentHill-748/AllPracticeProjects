@@ -1,0 +1,50 @@
+﻿<Window x:Class="Browser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Browser"
+        mc:Ignorable="d"
+        Title="MainWindow" 
+        Height="450" 
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Button
+            Grid.Column="0"
+            x:Name="_getHttpContent"
+            Margin="20,20,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Padding="5,0"
+            FontSize="15"
+            Content="Get content"
+            Click="_getHttpContent_Click"/>
+
+        <TextBlock
+            Grid.Column="0"
+            x:Name="_httpTextContent"
+            Margin="20,100,20,20"
+            TextWrapping="WrapWithOverflow"/>
+
+        <WebBrowser
+            Grid.Column="1"
+            Margin="20,100,20,20"
+            x:Name="_webBroser"/>
+
+        <Button
+            x:Name="_loadPage"
+            Grid.Column="1"
+            VerticalAlignment="Top"
+            HorizontalAlignment="Left"
+            Margin="20,20,0,0"
+            Padding="5,0"
+            FontSize="15"
+            Content="Load Page"
+            Click="_loadPage_Click"/>
+    </Grid>
+</Window>

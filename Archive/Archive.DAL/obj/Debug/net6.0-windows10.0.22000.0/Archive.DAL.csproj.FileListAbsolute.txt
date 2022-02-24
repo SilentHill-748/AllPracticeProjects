@@ -1,0 +1,12 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\bin\Debug\net6.0-windows10.0.22000.0\Archive.DAL.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\bin\Debug\net6.0-windows10.0.22000.0\Archive.DAL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\bin\Debug\net6.0-windows10.0.22000.0\ref\Archive.DAL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\bin\Debug\net6.0-windows10.0.22000.0\Archive.DAL.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\ref\Archive.DAL.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.DAL\obj\Debug\net6.0-windows10.0.22000.0\Archive.DAL.pdb

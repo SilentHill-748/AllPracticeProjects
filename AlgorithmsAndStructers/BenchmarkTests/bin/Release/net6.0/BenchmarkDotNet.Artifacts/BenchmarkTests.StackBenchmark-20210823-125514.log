@@ -1,0 +1,121 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 4 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7
+// command took 2,08s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7
+// command took 14,12s and exited with 1
+// start dotnet build -c Release  --no-restore --no-dependencies /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7
+// command took 3,59s and exited with 0
+// ***** Done, took 00:00:19 (19.89 sec)   *****
+// Found 4 benchmarks:
+//   StackBenchmark.DefaultListBenchmarkPush: DefaultJob
+//   StackBenchmark.MyListBenchmarkPush: DefaultJob
+//   StackBenchmark.DefaultListBenchmarkPop: DefaultJob
+//   StackBenchmark.MyListBenchmarkPop: DefaultJob
+
+// **************************
+// Benchmark: StackBenchmark.DefaultListBenchmarkPush: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "e36d61ad-0bd7-4989-900d-e592697144f7.dll" --benchmarkName "BenchmarkTests.StackBenchmark.DefaultListBenchmarkPush" --job "Default" --benchmarkId 0 in D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7\bin\Release\net6.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.0 (6.0.21.37719), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 288600.00 ns, 288.6000 us/op
+WorkloadJitting  1: 1 op, 600600.00 ns, 600.6000 us/op
+
+OverheadJitting  2: 16 op, 357200.00 ns, 22.3250 us/op
+WorkloadJitting  2: 16 op, 618600.00 ns, 38.6625 us/op
+
+WorkloadPilot    1: 16 op, 161700.00 ns, 10.1062 us/op
+WorkloadPilot    2: 32 op, 182900.00 ns, 5.7156 us/op
+WorkloadPilot    3: 64 op, 406600.00 ns, 6.3531 us/op
+WorkloadPilot    4: 128 op, 765200.00 ns, 5.9781 us/op
+WorkloadPilot    5: 256 op, 1785800.00 ns, 6.9758 us/op
+WorkloadPilot    6: 512 op, 3676500.00 ns, 7.1807 us/op
+WorkloadPilot    7: 1024 op, 6330800.00 ns, 6.1824 us/op
+WorkloadPilot    8: 2048 op, 13031500.00 ns, 6.3630 us/op
+WorkloadPilot    9: 4096 op, 29525400.00 ns, 7.2083 us/op
+WorkloadPilot   10: 8192 op, 54145800.00 ns, 6.6096 us/op
+WorkloadPilot   11: 16384 op, 110273200.00 ns, 6.7305 us/op
+WorkloadPilot   12: 32768 op, 215312700.00 ns, 6.5708 us/op
+WorkloadPilot   13: 65536 op, 435561800.00 ns, 6.6461 us/op
+WorkloadPilot   14: 131072 op, 883525700.00 ns, 6.7408 us/op
+
+OverheadWarmup   1: 131072 op, 722900.00 ns, 5.5153 ns/op
+OverheadWarmup   2: 131072 op, 433200.00 ns, 3.3051 ns/op
+OverheadWarmup   3: 131072 op, 439600.00 ns, 3.3539 ns/op
+OverheadWarmup   4: 131072 op, 433900.00 ns, 3.3104 ns/op
+OverheadWarmup   5: 131072 op, 743900.00 ns, 5.6755 ns/op
+OverheadWarmup   6: 131072 op, 450000.00 ns, 3.4332 ns/op
+
+OverheadActual   1: 131072 op, 455500.00 ns, 3.4752 ns/op
+OverheadActual   2: 131072 op, 439900.00 ns, 3.3562 ns/op
+OverheadActual   3: 131072 op, 434100.00 ns, 3.3119 ns/op
+OverheadActual   4: 131072 op, 511800.00 ns, 3.9047 ns/op
+OverheadActual   5: 131072 op, 547600.00 ns, 4.1779 ns/op
+OverheadActual   6: 131072 op, 475200.00 ns, 3.6255 ns/op
+OverheadActual   7: 131072 op, 467600.00 ns, 3.5675 ns/op
+OverheadActual   8: 131072 op, 465100.00 ns, 3.5484 ns/op
+OverheadActual   9: 131072 op, 454500.00 ns, 3.4676 ns/op
+OverheadActual  10: 131072 op, 434000.00 ns, 3.3112 ns/op
+OverheadActual  11: 131072 op, 429600.00 ns, 3.2776 ns/op
+OverheadActual  12: 131072 op, 746000.00 ns, 5.6915 ns/op
+OverheadActual  13: 131072 op, 426200.00 ns, 3.2516 ns/op
+OverheadActual  14: 131072 op, 466200.00 ns, 3.5568 ns/op
+OverheadActual  15: 131072 op, 358200.00 ns, 2.7328 ns/op
+OverheadActual  16: 131072 op, 437600.00 ns, 3.3386 ns/op
+OverheadActual  17: 131072 op, 436600.00 ns, 3.3310 ns/op
+OverheadActual  18: 131072 op, 436800.00 ns, 3.3325 ns/op
+OverheadActual  19: 131072 op, 454000.00 ns, 3.4637 ns/op
+OverheadActual  20: 131072 op, 431400.00 ns, 3.2913 ns/op
+
+WorkloadWarmup   1: 131072 op, 1083207400.00 ns, 8.2642 us/op
+WorkloadWarmup   2: 131072 op, 727627100.00 ns, 5.5514 us/op
+WorkloadWarmup   3: 131072 op, 1492477800.00 ns, 11.3867 us/op
+WorkloadWarmup   4: 131072 op, 705122600.00 ns, 5.3797 us/op
+WorkloadWarmup   5: 131072 op, 680243900.00 ns, 5.1898 us/op
+WorkloadWarmup   6: 131072 op, 667795800.00 ns, 5.0949 us/op
+WorkloadWarmup   7: 131072 op, 6816598200.00 ns, 52.0065 us/op
+WorkloadWarmup   8: 131072 op, 816977400.00 ns, 6.2330 us/op
+
+// BeforeActualRun
+WorkloadActual   1: 131072 op, 752746800.00 ns, 5.7430 us/op
+WorkloadActual   2: 131072 op, 739133600.00 ns, 5.6391 us/op
+WorkloadActual   3: 131072 op, 735260000.00 ns, 5.6096 us/op
+WorkloadActual   4: 131072 op, 741130700.00 ns, 5.6544 us/op
+WorkloadActual   5: 131072 op, 739762800.00 ns, 5.6439 us/op
+WorkloadActual   6: 131072 op, 723378100.00 ns, 5.5189 us/op
+
+OutOfMemoryException!
+BenchmarkDotNet continues to run additional iterations until desired accuracy level is achieved. It's possible only if the benchmark method doesn't have any side-effects.
+If your benchmark allocates memory and keeps it alive, you are creating a memory leak.
+You should redesign your benchmark and remove the side-effects. You can use `OperationsPerInvoke`, `IterationSetup` and `IterationCleanup` to do that.
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.OutOfMemoryException: Array dimensions exceeded supported range.
+   at System.Array.Resize[T](T[]& array, Int32 newSize) in System.Private.CoreLib.dll:token 0x6000182+0x22
+   at System.Collections.Generic.Stack`1.Grow(Int32 capacity) in System.Collections.dll:token 0x6000261+0x2d
+   at System.Collections.Generic.Stack`1.PushWithResize(T item) in System.Collections.dll:token 0x600025f+0x0
+   at BenchmarkTests.StackBenchmark.DefaultListBenchmarkPush() in D:\������\�஥��� C# (VS Community)\�ࠪ⨪� � �ப�\AlgorithmsAndStructers\BenchmarkTests\StackBenchmark.cs:line 23
+   at BenchmarkDotNet.Autogenerated.Runnable_0.WorkloadActionUnroll(Int64 invokeCount) in D:\������\�஥��� C# (VS Community)\�ࠪ⨪� � �ப�\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7\e36d61ad-0bd7-4989-900d-e592697144f7.notcs:line 830
+   at BenchmarkDotNet.Engines.Engine.RunIteration(IterationData data) in BenchmarkDotNet.dll:token 0x6000997+0x91
+   at BenchmarkDotNet.Engines.EngineActualStage.RunAuto(Int64 invokeCount, IterationMode iterationMode, Int32 unrollFactor) in BenchmarkDotNet.dll:token 0x60009be+0x39
+   at BenchmarkDotNet.Engines.EngineActualStage.Run(Int64 invokeCount, IterationMode iterationMode, Boolean runAuto, Int32 unrollFactor, Boolean forceSpecific) in BenchmarkDotNet.dll:token 0x60009bd+0x3a
+   at BenchmarkDotNet.Engines.EngineActualStage.RunWorkload(Int64 invokeCount, Int32 unrollFactor, Boolean forceSpecific) in BenchmarkDotNet.dll:token 0x60009bc+0x0
+   at BenchmarkDotNet.Engines.Engine.Run() in BenchmarkDotNet.dll:token 0x6000996+0x94
+   at BenchmarkDotNet.Autogenerated.Runnable_0.Run(IHost host, String benchmarkName) in D:\������\�஥��� C# (VS Community)\�ࠪ⨪� � �ப�\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7\e36d61ad-0bd7-4989-900d-e592697144f7.notcs:line 172
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture) in System.Private.CoreLib.dll:token 0x6005405+0x78
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters) in System.Private.CoreLib.dll:token 0x6005309+0x0
+   at BenchmarkDotNet.Autogenerated.UniqueProgramName.AfterAssemblyLoadingAttached(String[] args) in D:\������\�஥��� C# (VS Community)\�ࠪ⨪� � �ப�\AlgorithmsAndStructers\BenchmarkTests\bin\Release\net6.0\e36d61ad-0bd7-4989-900d-e592697144f7\e36d61ad-0bd7-4989-900d-e592697144f7.notcs:line 54
+// AfterAll
+// Benchmark Process 3060 has exited with code -1.
+// * Artifacts cleanup *

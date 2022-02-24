@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\OneMoreClasses.NET.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\OneMoreClasses.NET.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\OneMoreClasses.NET.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\obj\Debug\OneMoreClasses.NET.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\obj\Debug\OneMoreClasses.NET.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\obj\Debug\OneMoreClasses.NET.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\obj\Debug\OneMoreClasses.NET.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Buffers.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Memory.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Numerics.Vectors.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Buffers.xml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Memory.xml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Numerics.Vectors.xml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\OneMoreClasses.NET\OneMoreClasses.NET\obj\Debug\OneMoreClasses.NET.csproj.CopyComplete

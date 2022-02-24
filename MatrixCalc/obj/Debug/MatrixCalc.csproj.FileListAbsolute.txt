@@ -1,0 +1,10 @@
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\bin\Debug\MatrixCalc.exe.config
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\bin\Debug\MatrixCalc.exe
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\bin\Debug\MatrixCalc.pdb
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.Form1.resources
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.Properties.Resources.resources
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.csproj.GenerateResource.cache
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.exe
+C:\Users\Silent Hill\source\Проекты С#\Practice\MatrixCalc\obj\Debug\MatrixCalc.pdb

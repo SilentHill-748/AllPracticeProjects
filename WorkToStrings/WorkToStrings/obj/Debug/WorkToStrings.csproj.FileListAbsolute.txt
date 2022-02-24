@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\bin\Debug\WorkToStrings.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\bin\Debug\WorkToStrings.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\bin\Debug\WorkToStrings.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\obj\Debug\WorkToStrings.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\obj\Debug\WorkToStrings.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\obj\Debug\WorkToStrings.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WorkToStrings\WorkToStrings\obj\Debug\WorkToStrings.pdb

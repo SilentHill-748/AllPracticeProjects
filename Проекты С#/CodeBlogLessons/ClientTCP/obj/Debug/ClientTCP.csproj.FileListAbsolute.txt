@@ -1,0 +1,7 @@
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\obj\Debug\ClientTCP.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\Silent Hill\source\Проекты С#\CodeBlogLessons\ClientTCP\obj\Debug\ClientTCP.pdb

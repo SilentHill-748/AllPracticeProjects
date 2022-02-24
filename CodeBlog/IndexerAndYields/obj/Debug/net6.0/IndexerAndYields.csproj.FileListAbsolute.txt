@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\IndexerAndYields.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\IndexerAndYields.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\IndexerAndYields.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\IndexerAndYields.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\ref\IndexerAndYields.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\bin\Debug\net6.0\IndexerAndYields.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.ImplicitNamespaceImports.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\ref\IndexerAndYields.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\IndexerAndYields\obj\Debug\net6.0\IndexerAndYields.genruntimeconfig.cache

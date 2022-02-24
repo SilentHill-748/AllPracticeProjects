@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\bin\Debug\TestMyClasses.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\bin\Debug\TestMyClasses.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\bin\Debug\TestMyClasses.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\obj\Debug\TestMyClasses.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\obj\Debug\TestMyClasses.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\obj\Debug\TestMyClasses.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TestMyClasses\TestMyClasses\obj\Debug\TestMyClasses.pdb

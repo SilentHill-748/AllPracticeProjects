@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\bin\Debug\ExamProject.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\bin\Debug\ExamProject.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\bin\Debug\ExamProject.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ExamProject\ExamProject\obj\Debug\ExamProject.pdb

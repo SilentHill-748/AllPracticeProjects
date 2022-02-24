@@ -1,0 +1,6 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\obj\Debug\LectionsPNIPU.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\bin\Debug\LectionsPNIPU.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\bin\Debug\LectionsPNIPU.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\bin\Debug\LectionsPNIPU.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\obj\Debug\LectionsPNIPU.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LectionsPNIPU\LectionsPNIPU\obj\Debug\LectionsPNIPU.pdb

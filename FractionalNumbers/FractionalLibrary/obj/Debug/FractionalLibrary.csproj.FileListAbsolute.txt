@@ -1,0 +1,5 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\FractionalLibrary\bin\Debug\FractionalLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\FractionalLibrary\bin\Debug\FractionalLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\FractionalLibrary\obj\Debug\FractionalLibrary.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\FractionalLibrary\obj\Debug\FractionalLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\FractionalLibrary\obj\Debug\FractionalLibrary.pdb

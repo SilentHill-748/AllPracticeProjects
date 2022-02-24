@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\GarbageCollector.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\GarbageCollector.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\GarbageCollector.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\GarbageCollector.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\ref\GarbageCollector.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\bin\Debug\net6.0\GarbageCollector.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.ImplicitNamespaceImports.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\ref\GarbageCollector.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\GarbageCollector\obj\Debug\net6.0\GarbageCollector.genruntimeconfig.cache

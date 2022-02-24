@@ -1,0 +1,20 @@
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.exe.config
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.exe
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.pdb
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.Form1.resources
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.Properties.Resources.resources
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csproj.GenerateResource.cache
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.exe
+C:\Users\Silent Hill\source\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\bin\Debug\ShootingStars.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Проекты С#\ShootingStars\ShootingStars\obj\Debug\ShootingStars.pdb

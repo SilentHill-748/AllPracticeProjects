@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.Services.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\ref\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.Services.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.Abstractions.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\bin\Debug\net5.0-windows10.0.20348.0\Archive.EFCore.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\ref\Archive.Services.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Services\obj\Debug\net5.0-windows10.0.20348.0\Archive.Services.pdb

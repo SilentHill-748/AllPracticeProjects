@@ -1,0 +1,15 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\bin\Debug\RegistryAndFileSystem.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\bin\Debug\RegistryAndFileSystem.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\bin\Debug\RegistryAndFileSystem.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\MainWindow.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.g.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\RegistryAndFileSystem\obj\Debug\RegistryAndFileSystem.pdb

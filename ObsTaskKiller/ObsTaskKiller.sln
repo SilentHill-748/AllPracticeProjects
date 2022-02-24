@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsTaskKiller", "ObsTaskKiller\ObsTaskKiller.csproj", "{1730AD43-2D65-4918-9F36-06C1542F4159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1730AD43-2D65-4918-9F36-06C1542F4159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1730AD43-2D65-4918-9F36-06C1542F4159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1730AD43-2D65-4918-9F36-06C1542F4159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1730AD43-2D65-4918-9F36-06C1542F4159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C738303-1518-4898-99F3-253AE22EC8FA}
+	EndGlobalSection
+EndGlobal

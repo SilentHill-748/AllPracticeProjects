@@ -1,0 +1,7 @@
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\bin\Debug\ДопВозможностиООП.exe.config
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\bin\Debug\ДопВозможностиООП.exe
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\bin\Debug\ДопВозможностиООП.pdb
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\obj\Debug\ДопВозможностиООП.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\obj\Debug\ДопВозможностиООП.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\obj\Debug\ДопВозможностиООП.exe
+C:\Users\Silent Hill\source\Проекты С#\ДопВозможностиООП\ДопВозможностиООП\obj\Debug\ДопВозможностиООП.pdb

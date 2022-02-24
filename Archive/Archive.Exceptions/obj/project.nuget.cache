@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dk+LIWBn0xWFPjzFcxSbG9aF2uwujWcdHK/ghgbm9wa9xEFnbU1gKm4a3iNWTLe5NmegiFcEeSq+g/oI+oW0tQ==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\Archive\\Archive.Exceptions\\Archive.Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.21\\microsoft.windows.sdk.net.ref.10.0.22000.21.nupkg.sha512"
+  ],
+  "logs": []
+}

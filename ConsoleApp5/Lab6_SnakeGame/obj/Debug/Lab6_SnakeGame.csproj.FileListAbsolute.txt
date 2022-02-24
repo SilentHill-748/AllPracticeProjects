@@ -1,0 +1,9 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\bin\Debug\Lab6_SnakeGame.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\bin\Debug\Lab6_SnakeGame.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\bin\Debug\Lab6_SnakeGame.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp5\Lab6_SnakeGame\obj\Debug\Lab6_SnakeGame.pdb

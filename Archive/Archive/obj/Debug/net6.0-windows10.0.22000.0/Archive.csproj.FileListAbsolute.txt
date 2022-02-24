@@ -1,0 +1,13 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Archive.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Views\LoadDocuments.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Views\Main.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Views\MainWindow.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\App.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\GeneratedInternalTypeHelper.g.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Archive_MarkupCompile.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Archive_MarkupCompile.lref
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Views\LoadDocuments.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Views\Main.baml
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Archive.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\ref\Archive.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive\obj\Debug\net6.0-windows10.0.22000.0\Archive.pdb

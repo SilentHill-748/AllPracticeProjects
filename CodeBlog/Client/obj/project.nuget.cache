@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwj9F7u1RPtqeiUi00p8jGU+8HSTbfjEAphKfNJG6k56+t1ErBLr7H8PHSP+CBUe17HqPxZuGEGnIK+T2J+Xbw==",
+  "success": true,
+  "projectFilePath": "D:\\Кодинг\\Проекты C# (VS Community)\\Практика и уроки\\CodeBlog\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SilentHill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\bin\Debug\Parsing.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Parsing\Parsing\obj\Debug\Parsing.pdb

@@ -1,0 +1,6 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\bin\Debug\BankLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\bin\Debug\BankLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\obj\Debug\BankLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\BankLibrary\obj\Debug\BankLibrary.pdb

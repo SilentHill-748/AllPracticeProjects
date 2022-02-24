@@ -1,0 +1,6 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.AddForm.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache

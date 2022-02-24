@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\bin\Debug\PracticeOOP.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\bin\Debug\PracticeOOP.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\bin\Debug\PracticeOOP.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\bin\Debug\BankLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\bin\Debug\BankLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\obj\Debug\PracticeOOP.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\obj\Debug\PracticeOOP.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\obj\Debug\PracticeOOP.csproj.CopyComplete
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\obj\Debug\PracticeOOP.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\PracticeOOP\PracticeOOP\obj\Debug\PracticeOOP.pdb

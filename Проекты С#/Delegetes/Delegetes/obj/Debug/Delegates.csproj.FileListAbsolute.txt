@@ -1,0 +1,7 @@
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\bin\Debug\Delegetes.exe.config
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\bin\Debug\Delegetes.exe
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\bin\Debug\Delegetes.pdb
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\obj\Debug\Delegetes.exe
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\obj\Debug\Delegetes.pdb
+C:\Users\Silent Hill\source\Проекты С#\Delegetes\Delegetes\obj\Debug\Delegates.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\bin\Debug\UserInterface.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\bin\Debug\UserInterface.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\bin\Debug\UserInterface.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\bin\Debug\FractionalLibrary.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\bin\Debug\FractionalLibrary.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.csproj.CopyComplete
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FractionalNumbers\UserInterface\obj\Debug\UserInterface.pdb

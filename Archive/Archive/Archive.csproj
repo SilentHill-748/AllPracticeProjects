@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.22000.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x86</Platforms>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <MinimumRequiredVersion>7</MinimumRequiredVersion>
+    <Authors>Nikita Palin</Authors>
+    <Company>-</Company>
+    <Product>DocumentSearcher</Product>
+    <Version>0.2.3</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="DbSettings.json" />
+    <None Remove="Views\icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.37" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Archive.Documents\Archive.Documents.csproj" />
+    <ProjectReference Include="..\Archive.EFCore\Archive.EFCore.csproj" />
+    <ProjectReference Include="..\Archive.Services\Archive.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Views\icon.png" />
+  </ItemGroup>
+
+</Project>

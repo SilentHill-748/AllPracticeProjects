@@ -1,0 +1,10 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\bin\Debug\TestWinAPI.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\bin\Debug\TestWinAPI.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\bin\Debug\TestWinAPI.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\TestWinAPI\obj\Debug\TestWinAPI.pdb

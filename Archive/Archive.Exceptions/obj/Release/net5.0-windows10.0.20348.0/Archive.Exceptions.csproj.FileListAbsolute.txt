@@ -1,0 +1,11 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\bin\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\bin\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\bin\Release\net5.0-windows10.0.20348.0\ref\Archive.Exceptions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\bin\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\ref\Archive.Exceptions.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.Exceptions\obj\Release\net5.0-windows10.0.20348.0\Archive.Exceptions.pdb

@@ -1,0 +1,13 @@
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.exe
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.deps.json
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.runtimeconfig.json
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.runtimeconfig.dev.json
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.dll
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\bin\Debug\netcoreapp3.1\lag5.pdb
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.csprojAssemblyReference.cache
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.AssemblyInfoInputs.cache
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.AssemblyInfo.cs
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.csproj.CoreCompileInputs.cache
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.dll
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.pdb
+C:\Users\Nikic\source\Проекты С#\lag5\lag5\obj\Debug\netcoreapp3.1\lag5.genruntimeconfig.cache

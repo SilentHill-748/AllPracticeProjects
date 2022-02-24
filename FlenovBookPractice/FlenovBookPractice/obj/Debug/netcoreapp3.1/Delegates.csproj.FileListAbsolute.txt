@@ -1,0 +1,15 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\bin\Debug\netcoreapp3.1\Delegates.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\FlenovBookPractice.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\FlenovBookPractice\FlenovBookPractice\obj\Debug\netcoreapp3.1\Delegates.genruntimeconfig.cache

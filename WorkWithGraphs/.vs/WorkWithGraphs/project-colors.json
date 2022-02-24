@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9afa880c-f96f-4dc8-a6a2-0507ea9cb5b5": {
+      "ProjectGuid": "9afa880c-f96f-4dc8-a6a2-0507ea9cb5b5",
+      "DisplayName": "UserInterface",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

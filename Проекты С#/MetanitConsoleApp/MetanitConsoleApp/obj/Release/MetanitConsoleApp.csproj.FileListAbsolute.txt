@@ -1,0 +1,7 @@
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\bin\Release\MetanitConsoleApp.exe.config
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\bin\Release\MetanitConsoleApp.exe
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\bin\Release\MetanitConsoleApp.pdb
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\obj\Release\MetanitConsoleApp.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\obj\Release\MetanitConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\obj\Release\MetanitConsoleApp.exe
+C:\Users\Silent Hill\source\Проекты С#\MetanitConsoleApp\MetanitConsoleApp\obj\Release\MetanitConsoleApp.pdb

@@ -1,0 +1,11 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows\Archive.EFCore.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows\ref\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\bin\x86\Debug\net5.0-windows\Archive.EFCore.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\ref\Archive.EFCore.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Archive\Archive.EFCore\obj\x86\Debug\net5.0-windows\Archive.EFCore.pdb

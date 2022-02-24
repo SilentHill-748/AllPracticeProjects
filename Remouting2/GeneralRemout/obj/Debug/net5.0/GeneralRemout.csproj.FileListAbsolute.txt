@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\ref\GeneralRemout.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\bin\Debug\net5.0\GeneralRemout.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\ref\GeneralRemout.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\Remouting2\GeneralRemout\obj\Debug\net5.0\GeneralRemout.genruntimeconfig.cache

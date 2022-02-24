@@ -1,0 +1,10 @@
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\Silent Hill\source\Проекты С#\Checkers\Checkers\obj\Debug\Checkers.pdb

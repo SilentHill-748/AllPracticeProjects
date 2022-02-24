@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\ref\Test.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\bin\Debug\net5.0\Test.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\Test.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ref\Test.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\Test.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\ConsoleApp7\ConsoleApp7\obj\Debug\net5.0\ConsoleApp7.genruntimeconfig.cache

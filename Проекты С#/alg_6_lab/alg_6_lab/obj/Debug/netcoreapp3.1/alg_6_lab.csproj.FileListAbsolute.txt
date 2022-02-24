@@ -1,0 +1,13 @@
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.csprojAssemblyReference.cache
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.AssemblyInfoInputs.cache
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.AssemblyInfo.cs
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.csproj.CoreCompileInputs.cache
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.exe
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.deps.json
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.runtimeconfig.json
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.runtimeconfig.dev.json
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.dll
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\bin\Debug\netcoreapp3.1\alg_6_lab.pdb
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.dll
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.pdb
+C:\Users\Nikic\source\Проекты С#\alg_6_lab\alg_6_lab\obj\Debug\netcoreapp3.1\alg_6_lab.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows10.0.22000.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <MinimumPlatformVersion>7.0</MinimumPlatformVersion>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BitMiracle.Docotic.Pdf" Version="8.3.12622" />
+    <PackageReference Include="FreeSpire.Doc" Version="9.9.7" />
+    <PackageReference Include="Tesseract" Version="4.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Archive.EFCore\Archive.EFCore.csproj" />
+    <ProjectReference Include="..\Archive.Exceptions\Archive.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

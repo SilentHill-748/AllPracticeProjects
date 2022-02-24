@@ -1,0 +1,7 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\bin\Debug\LabForAslan.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\bin\Debug\LabForAslan.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\bin\Debug\LabForAslan.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\obj\Debug\LabForAslan.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\obj\Debug\LabForAslan.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\obj\Debug\LabForAslan.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\LabForAslan\LabForAslan\obj\Debug\LabForAslan.pdb

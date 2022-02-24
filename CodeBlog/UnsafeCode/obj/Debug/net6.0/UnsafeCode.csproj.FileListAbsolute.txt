@@ -1,0 +1,16 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\UnsafeCode.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\UnsafeCode.deps.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\UnsafeCode.runtimeconfig.json
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\UnsafeCode.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\ref\UnsafeCode.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\bin\Debug\net6.0\UnsafeCode.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.csproj.AssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.AssemblyInfoInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.AssemblyInfo.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.ImplicitNamespaceImports.cs
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\ref\UnsafeCode.dll
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\CodeBlog\UnsafeCode\obj\Debug\net6.0\UnsafeCode.genruntimeconfig.cache

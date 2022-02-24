@@ -1,0 +1,11 @@
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\bin\Release\TableUI.exe.config
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\bin\Release\TableUI.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\bin\Release\TableUI.pdb
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.csprojAssemblyReference.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.Form1.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.OperationsForm.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.Properties.Resources.resources
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.csproj.GenerateResource.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.csproj.CoreCompileInputs.cache
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.exe
+D:\Кодинг\Проекты C# (VS Community)\Практика и уроки\TableUI\TableUI\obj\Release\TableUI.pdb

@@ -1,0 +1,13 @@
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Silent Hill\source\Проекты С#\Interface\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
